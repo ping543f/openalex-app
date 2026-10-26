@@ -1,0 +1,3 @@
+source openalex/bin/activate
+python3 -m pip install -r requirements.txt
+python3 -m streamlit run openalex_integrity.py
